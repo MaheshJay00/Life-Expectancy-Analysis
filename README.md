@@ -145,3 +145,4 @@ Future improvements could include incorporating additional predictors such as he
 - The project requirement is to stop training at 2010 and forecast forward only from 2011.
 - The raw World Bank files may contain later years, but the project workflow intentionally limits the modeling horizon to 2011–2023.
 - The dashboard is intended to present the project-defined evaluation frame, not raw future data beyond the approved forecasting period.
+- Notebooks have exercises marked as 1.1 for data analysis and 1.2 for data visualization. Visualization results are saved under notebooks/images/
